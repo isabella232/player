@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow-down</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Standard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-down" fill="#FFFFFF">
-            <polygon id="Shape-Copy-3" transform="translate(10.500000, 10.000000) scale(1, -1) rotate(90.000000) translate(-10.500000, -10.000000) " points="13.448946 17.5 5.5 10.0158634 13.448946 2.5 15.5 4.62532105 9.66360472 10.0468349 15.5 15.4045173"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" version="1.1" viewBox="0 0 20 20"><title>arrow-down</title><desc>Created with Sketch.</desc><g id="Standard" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="arrow-down" fill="#FFF"><polygon id="Shape-Copy-3" points="13.449 17.5 5.5 10.016 13.449 2.5 15.5 4.625 9.664 10.047 15.5 15.405" transform="translate(10.500000, 10.000000) scale(1, -1) rotate(90.000000) translate(-10.500000, -10.000000)"/></g></g></svg>
